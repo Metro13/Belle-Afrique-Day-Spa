@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#services{
+    background-image: url('../public/images/pexels-nothing-ahead-3230236.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.overlay{
+    background: rgba(22, 23, 24, 0.7)
+}
